@@ -19,4 +19,3 @@ The repository is structured as follows:
 
 Feel free to study the solutions, experiment with the code, and use them as a reference to deepen your understanding of Java programming and object-oriented principles.
 
-Happy coding! 🚀
